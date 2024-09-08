@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667320889547",
+    "project_id": "audition-b494d",
+    "storage_bucket": "audition-b494d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667320889547:android:cea570fd95bb6b39626b4e",
+        "android_client_info": {
+          "package_name": "com.audition.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMaleClouLOp3mKb8D6h_FH_b78pLsa9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
